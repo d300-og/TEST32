@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+     background-color: whitesmoke;
+}
+ main nav{
+     text-align: center;
+     background-color: rgb(223, 179, 138);
+}
+main, a{
+ background-color: rgb(223, 179, 138);
+}
+header, b {
+text-align: center;
+}
+
+ header{
+    background-color: rgb(223, 179, 138);
+}
+h1{
+    text-align: center;
+    color: darkmagenta;
+    background-color: rgb(223, 179, 138);
+    text-decoration: underline;
+  }
+
+i{
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 50px;
+   
+}
