@@ -1,31 +1,55 @@
 body {
-    font-family: sans-serif;
-     background-color: whitesmoke;
+font-family: sans-serif;
 }
- main nav{
-     text-align: center;
-     background-color: rgb(223, 179, 138);
+
+a {
+text-decoration: none;
 }
-main, a{
- background-color: rgb(223, 179, 138);
+
+h1 {
+text-align: center;
+color: darkblue;
+background-color: lightskyblue;
+border-radius: 20px;
 }
+
+footer {
+text-align: center;
+}
+
+table{
+border-radius: 10px;
+}
+
+footer, img {
+border: 3px solid cripmson;
+}
+
+footer {
+background-color: blue;
+padding: 10px;
+}
+
+footer p {
+background-color: white;
+color: black;
+padding: 5px;
+border-radius: 20px;
+}
+
+
 header, b {
 text-align: center;
 }
 
- header{
-    background-color: rgb(223, 179, 138);
+main, a {
+text-align: center;
 }
-h1{
-    text-align: center;
-    color: darkmagenta;
-    background-color: rgb(223, 179, 138);
-    text-decoration: underline;
-  }
 
-i{
-    border: 3px solid black;
-    padding: 10px;
-    border-radius: 50px;
-   
+body, a {
+text-align: center;
+}
+
+h2 {
+border-radius: 10px;
 }
